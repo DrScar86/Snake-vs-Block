@@ -1178,7 +1178,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Game Over!
+  m_Text: "\u041A\u043E\u043D\u0435\u0446 \u0438\u0433\u0440\u044B!"
 --- !u!222 &359847787
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1258,7 +1258,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You won!
+  m_Text: "\u041F\u043E\u0431\u0435\u0434\u0430!"
 --- !u!222 &370250430
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1582,7 +1582,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Reset Level
+  m_Text: "\u0417\u0430\u043D\u0430\u0432\u043E"
 --- !u!222 &467166293
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2408,7 +2408,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Exit
+  m_Text: "\u0412\u044B\u0445\u043E\u0434"
 --- !u!222 &685950205
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3724,7 +3724,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Reset Level
+  m_Text: "\u0417\u0430\u043D\u0430\u0432\u043E"
 --- !u!222 &1185993317
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5238,7 +5238,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Next Level
+  m_Text: "\u0414\u0430\u043B\u0435\u0435"
 --- !u!222 &1930776814
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5708,7 +5708,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Exit
+  m_Text: "\u0412\u044B\u0445\u043E\u0434"
 --- !u!222 &2071897429
 CanvasRenderer:
   m_ObjectHideFlags: 0
