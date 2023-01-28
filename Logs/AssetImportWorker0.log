@@ -446,3 +446,269 @@ Received Import Request.
   path: Assets/Scenes/Level3.unity
   artifactKey: Guid(c02b8ca09052d97468fa4affa6870dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Level3.unity using Guid(c02b8ca09052d97468fa4affa6870dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7ca80bbc230eaf66d93514fedf3e6ac') in 0.008696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 292.312684 seconds.
+  path: Assets/Sounds/music1.mp3
+  artifactKey: Guid(8a30674e1ed5c9447b08f575c0181c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/music1.mp3 using Guid(8a30674e1ed5c9447b08f575c0181c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbce57237de7b5dfaf89a76ba21a91a0') in 0.056541 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Sounds/music2.mp3
+  artifactKey: Guid(d8ea4150dea2de14f8c34e131e5474f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/music2.mp3 using Guid(d8ea4150dea2de14f8c34e131e5474f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc866a0e2b5701f296bb11013b724c9d') in 0.024669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Sounds/music3.mp3
+  artifactKey: Guid(9c23b17f4fde7554cb5f08b0bf769937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/music3.mp3 using Guid(9c23b17f4fde7554cb5f08b0bf769937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f8aba20569e30247091ef6201d548f') in 0.020362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2359.887717 seconds.
+  path: Assets/Prefabs/Block.prefab
+  artifactKey: Guid(a1bc43d12a3d40b449cc4481bdd77535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Block.prefab using Guid(a1bc43d12a3d40b449cc4481bdd77535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e406d18f72bfb1c91a0b8f23f7ba1002') in 0.183288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Prefabs/Food.prefab
+  artifactKey: Guid(97bd7cba4bed8fa46b8689e14e27cdf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Food.prefab using Guid(97bd7cba4bed8fa46b8689e14e27cdf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2fbd6369dfe740e12d96c4e4206c1da') in 0.136643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Prefabs/Finish.prefab
+  artifactKey: Guid(6f06fa58e7064ef44b9f62d5c14b8f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Finish.prefab using Guid(6f06fa58e7064ef44b9f62d5c14b8f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d104799b3a0e3c6404ecf5c0f16b2ec') in 0.043081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.452028 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs
+  artifactKey: Guid(c551d0d9689477741bcde7961165f626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs using Guid(c551d0d9689477741bcde7961165f626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c7d0a4d986350ce8a4d8f849060053') in 0.011780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.633626 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Bridge_Medium_01.prefab
+  artifactKey: Guid(0d4a019beae35b244b6c3ea9d602a491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Bridge_Medium_01.prefab using Guid(0d4a019beae35b244b6c3ea9d602a491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '500e62521e159484316c05e9bb0d10f1') in 0.033400 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_01.prefab
+  artifactKey: Guid(58612c173e9f1614e8e07ea151f8f809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_01.prefab using Guid(58612c173e9f1614e8e07ea151f8f809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade9d72e11b30a35d4664ed45e644dbb') in 0.116487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Grass_Tall_01.prefab
+  artifactKey: Guid(75010611b6d06e042969e9d74270eee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Grass_Tall_01.prefab using Guid(75010611b6d06e042969e9d74270eee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a64ab8b3a144cea2be7a96a36415de35') in 0.056848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Root_02.prefab
+  artifactKey: Guid(15a19152fbbc69a4d96041ba2c28513a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Root_02.prefab using Guid(15a19152fbbc69a4d96041ba2c28513a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e0b2f8d0282d0d0fb88da3ec6e0e876') in 0.064331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Gate_01.prefab
+  artifactKey: Guid(b84c238889c921e4191e52b5cab63dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Gate_01.prefab using Guid(b84c238889c921e4191e52b5cab63dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6cf73de037537d6f7a9317d441a8cd') in 0.030761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_Trunk_02.prefab
+  artifactKey: Guid(7f514b241beac2e4b9294d3f995642c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_Trunk_02.prefab using Guid(7f514b241beac2e4b9294d3f995642c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608ef54e451b3534dc0bc6e8b2769900') in 0.040396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Mushroom_01.prefab
+  artifactKey: Guid(530321166315ede438b59b0542114214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Mushroom_01.prefab using Guid(530321166315ede438b59b0542114214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df68e75130fd7261e7826f5f9b6a9439') in 0.046238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_02.prefab
+  artifactKey: Guid(f79dec007497d404899c569aa52f4b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_02.prefab using Guid(f79dec007497d404899c569aa52f4b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3424af71e64f710da0daa00010a01103') in 0.030756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Floating_Rocks_01.prefab
+  artifactKey: Guid(42207afe5b93d474c9d37f03d4c8f60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Floating_Rocks_01.prefab using Guid(42207afe5b93d474c9d37f03d4c8f60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2871c0e36651e674dd3499e67fc6dc4') in 0.038958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Rocks_01.prefab
+  artifactKey: Guid(00e919cb136cd3e4fb5a2abf079392d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Rocks_01.prefab using Guid(00e919cb136cd3e4fb5a2abf079392d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26732a4784509121fc3f7375682aec71') in 0.035507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_Trunk_01.prefab
+  artifactKey: Guid(978ecd98683fc62408a08986f262e5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_Trunk_01.prefab using Guid(978ecd98683fc62408a08986f262e5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543da9d088a1d6d237efa04cfa5ac413') in 0.040429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Root_01.prefab
+  artifactKey: Guid(9b115d8e78d60dd47815624eb8660dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Root_01.prefab using Guid(9b115d8e78d60dd47815624eb8660dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34864820023d97d4c6e0d02f8161a13') in 0.038804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Floating_Isle_01.prefab
+  artifactKey: Guid(e08ed716344e5e749b109a7f11f4be4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Floating_Isle_01.prefab using Guid(e08ed716344e5e749b109a7f11f4be4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7936a9b3c09e505d3e9b6384a0d28f') in 0.038380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Bridge_Small_01.prefab
+  artifactKey: Guid(2587830fa95bd8f4e9c7552832a98115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Bridge_Small_01.prefab using Guid(2587830fa95bd8f4e9c7552832a98115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae08dfde4f6acaf2fef4b0c7662dca8e') in 0.098657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_06.prefab
+  artifactKey: Guid(d6a7485faf8161f45819fe13493c4524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_06.prefab using Guid(d6a7485faf8161f45819fe13493c4524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c668a214aa19085c3eef7609b0bf6c') in 0.063202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Crate_01.prefab
+  artifactKey: Guid(21d35dd3c47aaff429cd3a9a6401ebf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Crate_01.prefab using Guid(21d35dd3c47aaff429cd3a9a6401ebf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9172cedda57de0242354972c43481218') in 0.048570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Fence_01.prefab
+  artifactKey: Guid(ba63fe34122edd5449e1dbd0943e9438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Fence_01.prefab using Guid(ba63fe34122edd5449e1dbd0943e9438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cafbb0a1b86860dd19429c7fcc155375') in 0.049038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Rocks_02.prefab
+  artifactKey: Guid(a98adf31eb484624981c9b9f13a04478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Rocks_02.prefab using Guid(a98adf31eb484624981c9b9f13a04478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44642ce2b7528312272d3bd59099a045') in 0.054311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_05.prefab
+  artifactKey: Guid(f7f51623fcd2a8648904a58a34f151f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_05.prefab using Guid(f7f51623fcd2a8648904a58a34f151f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf340e1f826fbacf486239742005200') in 0.043844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_Big_01.prefab
+  artifactKey: Guid(4277f747ff9161a48b20b0fa8867a2a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_Big_01.prefab using Guid(4277f747ff9161a48b20b0fa8867a2a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd3e41e565c62b5e2ee0e4288f0e635') in 0.068408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_03.prefab
+  artifactKey: Guid(d21c01c67bb717e489508f7262d3bbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_03.prefab using Guid(d21c01c67bb717e489508f7262d3bbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2610548c25ce2487e997397e1267380b') in 0.038413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_04.prefab
+  artifactKey: Guid(0ef2e53acc9a8404e916bf423689836b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Tree_04.prefab using Guid(0ef2e53acc9a8404e916bf423689836b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a526651f3705f116bfdde770b53f60f') in 0.046416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Diorama.prefab
+  artifactKey: Guid(d25d7d96e908c7d4d8d50d2e30b328f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Diorama.prefab using Guid(d25d7d96e908c7d4d8d50d2e30b328f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3337bd71c3da5a1b223bcc976bb0c84c') in 0.058117 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Grass_Small_01.prefab
+  artifactKey: Guid(572d100479fe58146af05e3b414d7bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Grass_Small_01.prefab using Guid(572d100479fe58146af05e3b414d7bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c95d57bbedfc31c76b0fcafca9c3d69') in 0.042011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Rocks_03.prefab
+  artifactKey: Guid(a54535c5d0c5d734d98e3475564f645c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unvik_3D/Woodland/Prefabs/WoodLand_Rocks_03.prefab using Guid(a54535c5d0c5d734d98e3475564f645c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae06a449cdd1d0c4f759fbf95d50169d') in 0.052314 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (307.2 KB). Loaded Objects now: 4064.
+Memory consumption went from 116.1 MB to 115.8 MB.
+Total: 7.911700 ms (FindLiveObjects: 0.406300 ms CreateObjectMapping: 0.184000 ms MarkObjects: 7.145300 ms  DeleteObjects: 0.174500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 618.896515 seconds.
+  path: Assets/Scenes/Level2.unity
+  artifactKey: Guid(2001ede3fe5be4f47ad4219c387b386c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level2.unity using Guid(2001ede3fe5be4f47ad4219c387b386c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1bc0126debe34dc04923db8c869942d') in 0.012011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.437900 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f36887f7a493f0c51f06cab6c4c2c30') in 0.004374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 144.735057 seconds.
+  path: Assets/Scenes/Level2.unity
+  artifactKey: Guid(2001ede3fe5be4f47ad4219c387b386c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level2.unity using Guid(2001ede3fe5be4f47ad4219c387b386c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e96951aff3014f7b746590862f1a2f') in 0.004048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1251.403802 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a37bcea8eb2fc1a54497b86d66c18ad') in 0.003524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 123.440368 seconds.
+  path: Assets/Scenes/Level2.unity
+  artifactKey: Guid(2001ede3fe5be4f47ad4219c387b386c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level2.unity using Guid(2001ede3fe5be4f47ad4219c387b386c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce11fd9fd0cbfddf1bc7b589e5d15bba') in 0.017578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.351675 seconds.
+  path: Assets/Scenes/Level3.unity
+  artifactKey: Guid(c02b8ca09052d97468fa4affa6870dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level3.unity using Guid(c02b8ca09052d97468fa4affa6870dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d03ebea712848249205935e3f03f151') in 0.011237 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (307.1 KB). Loaded Objects now: 4064.
+Memory consumption went from 116.1 MB to 115.8 MB.
+Total: 6.410300 ms (FindLiveObjects: 0.357700 ms CreateObjectMapping: 0.180600 ms MarkObjects: 5.782200 ms  DeleteObjects: 0.088600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
