@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 321}
   m_MaxSize: {x: 16192, y: 12117}
   vertical: 0
-  controlID: 96
+  controlID: 97
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 321}
   m_MaxSize: {x: 8096, y: 12117}
   vertical: 1
-  controlID: 41
+  controlID: 42
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 42
+  controlID: 43
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -346,22 +346,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/TextMesh Pro/Shaders
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/TextMesh Pro/Shaders
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\\u0412\u0438\u0442\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Snake-vs-Block"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 765d0000
-    m_LastClickedID: 23926
-    m_ExpandedIDs: 00000000565d0000585d00005a5d00005c5d000000ca9a3b
+    scrollPos: {x: 0, y: 75}
+    m_SelectedIDs: de5e0000
+    m_LastClickedID: 24286
+    m_ExpandedIDs: 000000007e5e0000805e0000845e00009c5e0000a65e0000c25e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -389,7 +389,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000565d0000585d00005a5d00005c5d0000
+    m_ExpandedIDs: 000000007e5e0000805e0000825e0000845e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -517,9 +517,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: de5e0000
       m_LastClickedID: 0
-      m_ExpandedIDs: d04affff764bffffe456ffffcc5affffee5effff406bffffb074ffff5475ffffde80ffffc684ffffe888ffff6e8effffca99ffffd89effff80b7ffff6ebcffff7ac7ffffa8d0ffffe2d5ffff32e6ffff74eaffff70eefffff6f2ffff72f7ffff34fbffffcc5f00005660000096600000a86000003c6400000466000042660000606d00002a6e00003c6e00000271000034710000987100009c71000020730000c67300000674000018740000327700006477000082770000a87d0000647e000000aa000062aa0000b0dd0000
+      m_ExpandedIDs: 34fbffff0e5b00004c5b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -841,7 +841,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -851,11 +851,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.4923556, y: 0.0070474856, z: -0.003987702, w: -0.87036127}
     speed: 2
-    m_Value: {x: -0.49234703, y: 0.008352985, z: -0.004726211, w: -0.87034607}
+    m_Value: {x: -0.4923556, y: 0.007047485, z: -0.003987702, w: -0.87036127}
   m_Size:
     m_Target: 31.923212
     speed: 2
-    m_Value: 30.548529
+    m_Value: 31.923212
   m_Ortho:
     m_Target: 0
     speed: 2
